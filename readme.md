@@ -1,6 +1,6 @@
 # basic-tiny-router
 
-A lightweight and expressive routing library for Node.js designed to work without external frameworks. Inspired by popular routers but tailored for simplicity, performance, and full control.
+A lightweight routing library for Node.js designed to work without external frameworks. Inspired by popular routers but tailored for simplicity, performance, and full control.
 
 ## Features
 
