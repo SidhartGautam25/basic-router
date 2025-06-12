@@ -1,5 +1,5 @@
 {
-  "name": "basic-router",
+  "name": "basic-tiny-router",
   "version": "1.0.0",
   "description": "basic router for newbies",
   "module": "index.mjs",
